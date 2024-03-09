@@ -50,7 +50,7 @@ Verzeichnisstruktur:
 
 ```
 ~(home/user/)
- |----Speech_Recognition_and_Emotion_Detection_in_English_and_German
+ |----Speech_Recognition
      |----audio
           |----english
              |----audio_file_sample.wav
@@ -96,6 +96,6 @@ Wenn Sie von Datei-Upload zu Mikrofon (oder Mikrofon zu Datei) wechseln möchten
 
 Ich habe hauptsächlich Mozilla DeepSpeech verwendet - https://github.com/mozilla/DeepSpeech
 
-Englische Sentimentanalyse - https://www.liip.ch/en/blog/sentiment-detection-with-keras-word-embeddings-and-lstm-deep-learning-networks
+Englische Stimmungsanalyse - https://www.liip.ch/en/blog/sentiment-detection-with-keras-word-embeddings-and-lstm-deep-learning-networks
 
-Deutsche Sentimentanalyse - https://textblob-de.readthedocs.io
+Deutsche Stimmungsanalyse - https://textblob-de.readthedocs.io

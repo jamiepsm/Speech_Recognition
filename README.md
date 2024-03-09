@@ -21,8 +21,8 @@ cd transcriber
 
 Klonen Sie diesen Git-Kontent:
 ```
-git clone https://github.com/kaveenkumar/Speech_Recognition_and_Emotion_Detection_in_English_and_German.git
-cd Speech_Recognition_and_Emotion_Detection_in_English_and_German
+git clone https://github.com/jamiepsm/Speech_Recognition.git
+cd Speech_Recognition
 ```
 
 Initialisieren und aktivieren Sie eine virtuelle Umgebung:

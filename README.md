@@ -1,10 +1,9 @@
 English and German Audio Transcriber + Emotion Detector
 Offline Speech-to-Text + Sentiment Analysis
-```
-Eine Linux-basierte Anwendung, die Audiodateien von Englisch oder Deutsch in Text überstezten kann. Anschließend kann sie auch die Stimmung im Text erkennen. Funktioniert komplett offline!
-```
 
-###0. Voraussetzungen
+Eine Linux-basierte Anwendung, die Audiodateien von Englisch oder Deutsch in Text überstezten kann. Anschließend kann sie auch die Stimmung im Text erkennen. Funktioniert komplett offline!
+
+0. Voraussetzungen
 
 Richten Sie Ihre Umgebung ein.
 
